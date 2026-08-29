@@ -1,4 +1,4 @@
-# OpenLog1 Data Logger for High-Altitude Balloon Atmospheric Measurements
+# OpenLog Data Logger for High-Altitude Balloon Atmospheric Measurements
 
 This repository contains a lightweight Arduino-based data logging framework for use with the SparkFun OpenLog Artemis. The code is designed to make it easy to connect, configure, and log data from a custom set of environmental and motion sensors without the overhead of the official vendor firmware (find here: https://github.com/sparkfun/OpenLog_Artemis).
 
